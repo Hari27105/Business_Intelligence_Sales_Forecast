@@ -35,15 +35,6 @@
 
 ---
 
-## 📊 Screenshots
-
-![Power BI Dashboard](powerbi/dashboard_image.png)
-![App Dashboard](screenshots/streamlit_dashboard.jpg)
-![Sales Prediction](screenshots/streamlit_prediction.jpg)
-![Data Analysis Page](screenshots/streamlit_data.jpg)
-
----
-
 ## 📂 Project Structure
 Business_Intelligence_Sales_Forecast/
 ├── app/ # Streamlit app
