@@ -36,6 +36,7 @@
 ---
 
 ## 📂 Project Structure
+
 Business_Intelligence_Sales_Forecast/
 ├── app/ # Streamlit app
 ├── data/ # CSV data files
