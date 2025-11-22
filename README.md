@@ -24,8 +24,8 @@
 )
 - (![streamlit_data1](https://github.com/user-attachments/assets/a4e4294f-0288-4ec6-959d-e9ed6321ef80)
 )
-- (![streamlit_data2 jpg ](https://github.com/user-attachments/assets/8e7c18b3-6541-458e-91c3-d8dbd4afb94c)
-)
+  ![streamlit_data2 jpg ](https://github.com/user-attachments/assets/8e7c18b3-6541-458e-91c3-d8dbd4afb94c)
+
 
 ## How to Run
 1. Install requirements from requirements.txt
