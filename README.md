@@ -102,7 +102,7 @@ Business_Intelligence_Sales_Forecast/
 
 ## 📞 Author & Contact
 
-Hari Prasad Kadu  
+HariPrasad Kadu  
 GitHub: [Hari27105](https://github.com/Hari27105)  
 LinkedIn: hariprasad-kadu-855382314  
 Email: kaduhariprasad@gmail.com
