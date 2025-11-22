@@ -18,7 +18,8 @@
 ## Screenshots
 
 ## Dashboard
-- <img width="1183" height="843" alt="powerbidashboard_image" src="https://github.com/user-attachments/assets/21875d55-8ddd-404f-be49-44cfa50c1012" />
+   <img width="2800" height="2000" alt="powerbidashboard_image" src="https://github.com/user-attachments/assets/22716a57-0918-486a-aae4-fb960b96320c" />
+
 ## Screenshots
 <img width="1910" height="1006" alt="screenshots_streamlit_dashboard jpg" src="https://github.com/user-attachments/assets/ecc1709d-a7c0-4b48-9b35-613bca592183" />
 
