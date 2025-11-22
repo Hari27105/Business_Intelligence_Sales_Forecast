@@ -16,14 +16,14 @@
 - Streamlit app with dashboard, prediction, full data view
 
 ## Screenshots
-- ![Dashboard](<img width="1183" height="843" alt="powerbidashboard_image" src="https://github.com/user-attachments/assets/e5143511-770c-4f07-b198-6964e39d90f8" />
-)
-- ![App Screenshot](<img width="1910" height="1006" alt="screenshots_streamlit_dashboard jpg" src="https://github.com/user-attachments/assets/5dab1f93-64e9-4924-8123-68a37152ce92" /> 
-)
-- (![streamlit_prediction](https://github.com/user-attachments/assets/6092bdf5-baf7-46f2-be70-47d53eafb57a)
-)
-- (![streamlit_data1](https://github.com/user-attachments/assets/a4e4294f-0288-4ec6-959d-e9ed6321ef80)
-)
+- <img width="1183" height="843" alt="powerbidashboard_image" src="https://github.com/user-attachments/assets/21875d55-8ddd-404f-be49-44cfa50c1012" />
+
+<img width="1910" height="1006" alt="screenshots_streamlit_dashboard jpg" src="https://github.com/user-attachments/assets/ecc1709d-a7c0-4b48-9b35-613bca592183" />
+
+  ![streamlit_prediction](https://github.com/user-attachments/assets/6092bdf5-baf7-46f2-be70-47d53eafb57a)
+
+  ![streamlit_data1](https://github.com/user-attachments/assets/a4e4294f-0288-4ec6-959d-e9ed6321ef80)
+
   ![streamlit_data2 jpg ](https://github.com/user-attachments/assets/8e7c18b3-6541-458e-91c3-d8dbd4afb94c)
 
 
