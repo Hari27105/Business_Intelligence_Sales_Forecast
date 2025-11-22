@@ -15,8 +15,6 @@
 - Power BI dashboard with 4 KPIs, monthly trend, top products
 - Streamlit app with dashboard, prediction, full data view
 
-## Screenshots
-
 ## Dashboard
    <img width="2800" height="2000" alt="powerbidashboard_image" src="https://github.com/user-attachments/assets/22716a57-0918-486a-aae4-fb960b96320c" />
 
