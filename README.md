@@ -38,16 +38,27 @@
 ## 📂 Project Structure
 
 Business_Intelligence_Sales_Forecast/
+
 ➜app/ # Streamlit app
+
 ➜data/ # CSV data files
+
 ➜models/ # ML model file
+
 ➜notebooks/ # Python scripts
+
 ➜powerbi/ # Dashboard image
+
 ➜screenshots/ # Application images
+
 ➜sql/ # SQL scripts (optional)
+
 ➜README.md # Documentation
+
 ➜requirements.txt # Dependencies
+
 ➜PROJECT_SUMMARY.txt # (optional summary)
+
 ---
 
 ## 💻 How to Run
